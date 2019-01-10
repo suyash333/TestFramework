@@ -16,6 +16,7 @@ public class HiveJdbcClientExample {
 	 */
 	public static String driverName = "org.apache.hadoop.hive.jdbc.HiveDriver";
 	//com.cloudera.hive.jdbc41.HS1Driver
+	//org.apache.hadoop.hive.jdbc.HiveDriver
 	//public static String driverName = "com.cloudera.hive.jdbc41.HS1Driver";
 
 	public static void main(String[] args) throws SQLException {
